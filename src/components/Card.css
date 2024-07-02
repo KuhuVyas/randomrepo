@@ -1,0 +1,12 @@
+
+.card{
+ background-color: rgb(221, 215, 160) ;
+ text-align: center;
+align-items: center;
+width:"250px";
+height:"250px";
+font-family:'Times New Roman', Times, serif;
+ border: 2px, solid black;
+
+}
+
