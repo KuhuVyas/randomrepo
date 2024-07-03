@@ -18,8 +18,7 @@ function App(){
     // </Grid>
   
   <>
-   <body>
-  <Grid container spacing={2}//gap={10}
+  <Grid container alignContent={"center"} p={2} alignSelf={"center"} spacing={2} rowSpacing={2}//gap={10}
   alignItems='center'
   
  // width='100vw' 
@@ -44,7 +43,7 @@ function App(){
   <Grid item xs={12} sm={6} md={4} lg={3} xl={2}  >
   <Card  title="Card5" description="card5 hai ye "/>
   </Grid>
-  </Grid>  </body>
+  </Grid>
   </>
   );
 }
