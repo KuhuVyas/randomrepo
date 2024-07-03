@@ -17,7 +17,7 @@ const Card = (props) => {
 <h1> {props.title}</h1>
 
 <img src='https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png?v=1619126283' 
-alt="Coding Image" width="100%"height="110"></img>
+alt="Coding Image" width="80%"height="110"></img>
 
 <p> { props.description}</p>
     </div>
